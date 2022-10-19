@@ -1,0 +1,13 @@
+{
+    "collections": [
+      {
+        "name": "core",
+        "path": "C:\\Users\\krisd\\Documents\\Programming\\Odin\\Odin\\core"
+      }
+    ],
+    "enable_document_symbols": true,
+    "enable_semantic_tokens": true,
+    "enable_hover": true,
+    "enable_snippets": true
+  }
+  
